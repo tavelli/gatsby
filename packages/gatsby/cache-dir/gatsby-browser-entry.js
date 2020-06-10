@@ -115,3 +115,5 @@ export {
   useStaticQuery,
   prefetchPathname,
 }
+
+export { getModule } from "./modules"
